@@ -10,7 +10,7 @@ const TrendingBlogs = () => {
     <div className="text-[#002B4F] mt-[60px] cursor-pointer">
       <div className="flex items-center gap-[8px]">
         <Image src={upArrow} width={24} height={24} />
-        <h4 className="text-[24px]">Trending blogs</h4>
+        <h4 className="text-[24px] font-semibold">Trending blogs</h4>
       </div>
       <div className="mt-[20px] flex flex-col gap-[32px]">
         <div className="flex items-center bg-white shadow-md rounded-[16px] group relative">

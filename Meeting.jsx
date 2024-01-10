@@ -5,7 +5,7 @@ import CommonArrowBtn from "./button's/CommonArrowBtn";
 
 const Meeting = () => {
   return (
-    <div className="bg-[#E6EFF7] p-[24px]">
+    <div className="bg-[#E6EFF7] p-[24px] mt-[60px]">
       <Image src={meeting} width={385} height={192} />
       <h3 className="mt-[24px] text-transparent bg-clip-text bg-gradient-to-r from-[#0072BC]  to-[#009FA9] text-[30px] font-bold">
         Your trusted software development partner
